@@ -2,8 +2,6 @@
 
 ### An experienced Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanollramirez&label=Profile views&color=0e75b6&style=flat" alt="imanollramirez" /> </p>
-
 - 🌱 I'm currently learning **More about computer-science.**
 
 - 📫 How to reach me **aleimanolramirez@gmail.com**
