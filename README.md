@@ -1,6 +1,6 @@
 # Hi 👋, I'm Imanol Ramírez
 
-### An experienced Javascript developer
+### An senior developer
 
 - 🌱 I'm currently learning **More about computer-science.**
 
