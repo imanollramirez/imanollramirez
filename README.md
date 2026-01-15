@@ -1,6 +1,6 @@
 # Hi 👋, I'm Imanol Ramírez
 
-### An senior developer
+### Software developer
 
 - 🌱 I'm currently learning **More about computer-science.**
 
