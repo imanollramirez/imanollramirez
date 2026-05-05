@@ -7,7 +7,7 @@
 
 ## Skills
 
-<div align="d-flex">
+<div align="d-flex justify-content-center align-items-center flex-wrap gap-2">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -29,4 +29,7 @@
 
 ## GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanollramirez&theme=default" alt="GitHub Streak" />
+
+## GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=imanollramirez" alt="trophy" />
 
