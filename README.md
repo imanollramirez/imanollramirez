@@ -1,7 +1,7 @@
 # Hello 👋, I'm Imanol Ramírez
 ### Software developer
 
-🌱 I'm currently learning More about computer-science.
+🌱 I'm currently learning More about software development and data science.
 
 📫 How to reach me aleimanolramirez@gmail.com
 
